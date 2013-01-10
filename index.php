@@ -68,7 +68,7 @@
 			<div class="flexslider"><!-- Start Flexslider -->
 	          <ul class="slides">
 	            <li>
-	  	    	    <img src="http://flickholdr.com/960/340/sun" alt=""/>
+	  	    	    <img src="images/homepage/tower.jpg" alt=""/>
 					<div class="flex-caption"><p>Atolle France <span><a class="roller" href="http://apps.baskettiamo.it">go</a></span></p></div>
 					</li>
 	  	    		<li>
