@@ -109,6 +109,8 @@
 	        
 			<?php 
 				$attachments = array('1.jpg','2.jpg','3.jpg','4.jpg','5.jpg');
+				$description = 'Complexe résidentiel';
+				$long = array(' Construction d\'un complexe résidentiel avec parking souterrain.','Fort de France - Martinique','2011','construction de tous les systèmes de climatisation, d\'électricité et de vidéosurveillance.');
 				include '../wrapper/struct.php';
 			?>
 

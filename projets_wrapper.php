@@ -12,7 +12,7 @@
                     '<p>'.$project[1].'</p>'.
                   '</div>'.
                 '</a>'.
-                '<h3 class="rsABlock sampleBlock"><a class="collegamento" href="'.$project[3].'">'.$project[4].' ></a></h3>'.
+                '<h3 class="rsABlock sampleBlock"><a class="collegamento" href="'.$project[3].'">'.$go.' ></a></h3>'.
               '</div>';
             }
           ?>

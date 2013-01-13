@@ -109,6 +109,8 @@
 	        
 			<?php 
 				$attachments = array('1.jpg','2.jpg','3.jpg','4.png','5.jpg');
+				$description = 'Tour utilisé pour le bureau';
+				$long = array('Construction d\'une tour utilisé comme un centre d\'affaires.','Fort de France - Martinique','2011','construction de tous les systèmes de climatisation, d\'électricité et de vidéosurveillance.');
 				include '../wrapper/struct.php';
 			?>
 

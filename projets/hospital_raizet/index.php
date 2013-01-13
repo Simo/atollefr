@@ -109,6 +109,8 @@
 	        
 			<?php 
 				$attachments = array('1.jpg','2.jpg','3.jpg','4.jpg','5.jpg');
+				$description = 'Hôpital gériatrique';
+				$long = array('Développement d\'un hôpital gériatrique.','Guadalupe','En cours','réseaux d\'égouts, tuyaux de descente et les réseaux externes.');
 				include '../wrapper/struct.php';
 			?>
 

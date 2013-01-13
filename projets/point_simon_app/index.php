@@ -109,6 +109,8 @@
 	        
 			<?php 
 				$attachments = array('1.jpg','2.jpg','3.jpg','4.jpg','5.jpg');
+				$description = 'Hôtel 4 étoiles supérieur';
+				$long = array(' Développement d\'un S. 4 étoiles.','Fort de France - Martinique','En cours','construction de tous les systèmes de climatisation, d\'électricité et de vidéosurveillance.');
 				include '../wrapper/struct.php';
 			?>
 

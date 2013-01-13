@@ -26,17 +26,19 @@ $form_submit = 'Envoyer';
 
 #variables for project wrapper
 
-$project1 = array('Beauliu sur mer','partner','projets/beauliu_sur_mer/1.jpg','projets/beauliu_sur_mer/index.php','aller');
-$project2 = array('Hospital Raizet','supplier','projets/hospital_raizet/1.jpg','projets/hospital_raizet/index.php','aller');
-$project3 = array('Novotel','competitor','projets/novotel/1.jpg','projets/novotel/index.php','aller');
-$project4 = array('Point Simon Apps.','leasing candidate','projets/point_simon_app/1.jpg','projets/point_simon_app/index.php','aller');
-$project5 = array('Point Simon Tour','search engine','projets/point_simon_tour/1.jpg','projets/point_simon_tour/index.php','aller');
+$go = 'aller';
 
-$projects = array($project1,
-				  $project2,
+$project1 = array('Beauliu sur mer','Villa Beaulieu Sur Mer','projets/beauliu_sur_mer/1.jpg','projets/beauliu_sur_mer/index.php','aller');
+$project2 = array('Hospital Raizet','Hôpital gériatrique','projets/hospital_raizet/1.jpg','projets/hospital_raizet/index.php','aller');
+$project3 = array('Novotel','Complexe résidentiel','projets/novotel/1.jpg','projets/novotel/index.php','aller');
+$project4 = array('Point Simon Apps.','Hôtel 4 étoiles supérieur','projets/point_simon_app/1.jpg','projets/point_simon_app/index.php','aller');
+$project5 = array('Point Simon Tour','Tour utilisé pour le bureau','projets/point_simon_tour/1.jpg','projets/point_simon_tour/index.php','aller');
+
+$projects = array($project5,
 				  $project3,
 				  $project4,
-				  $project5);
+				  $project2,
+				  $project1);
 
 
 #variables for links wrapper

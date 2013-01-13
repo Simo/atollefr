@@ -110,6 +110,8 @@
 			<?php 
 				$projet_nom = 'beauliu_sur_mer';
 				$attachments = array('1.jpg','2.jpg','3.jpg','4.jpg','5.jpg');
+				$description = 'Villa Beaulieu Sur Mer';
+				$long = array('Rénovation d\'une villa précieuse.','Beailieu Sur Mer - France','2005','construction de tous les systèmes de climatisation, d\'électricité et de vidéosurveillance.');
 				include '../wrapper/struct.php';
 			?>
 

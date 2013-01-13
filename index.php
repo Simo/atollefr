@@ -69,19 +69,19 @@
 	          <ul class="slides">
 	            <li>
 	  	    	    <img src="images/homepage/tower.jpg" alt=""/>
-					<div class="flex-caption"><p>Atolle France <span><a class="roller" href="http://apps.baskettiamo.it">go</a></span></p></div>
+					<div class="flex-caption"><p>Industries <span><a class="roller" href="#">go</a></span></p></div>
 					</li>
 	  	    		<li>
 	  	    	    <img src="http://flickholdr.com/960/340/snow" alt=""/>
-				    <div class="flex-caption"><p>Itaco <span><a class="roller" href="http://www.itaco-ru.com">go</a></span></p></div>
+				    <div class="flex-caption"><p>Residentiele <span><a class="roller" href="#">go</a></span></p></div>
 	  	    		</li>
 	  	    		<li>
 	  	    	    <img src="http://flickholdr.com/960/340/bw" alt=""/>
-					<div class="flex-caption"><p>New Company <span>go</span></p></div>
+					<div class="flex-caption"><p>Hopitals <span><a class="roller" href="#">go</a></span></p></div>
 	  	    		</li>
 	  	    		<li>
 	  	    	    <img src="http://flickholdr.com/960/340" alt=""/>
-	  	    		<div class="flex-caption"><p>Even newer company <span>go</span></p></div>
+	  	    		<div class="flex-caption"><p>Hotels <span><a class="roller" href="#">go</a></span></p></div>
 					</li>
 	          </ul>
 	        </div><!-- End Flexslider -->

@@ -64,7 +64,8 @@ body {
 
 
 .span_1 {
-    width:15.8333333333%;
+    /*width:15.8333333333%;*/
+    width:30.8333333333%;
 }
 .span_2,
 .main-features li {

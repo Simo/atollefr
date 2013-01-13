@@ -1,13 +1,42 @@
 body {
-	font-family: 'century gothic' !important;
+	font-size: 14px !important;
+	line-height: 21px;
+}
+
+.flex-caption p span a, .flex-caption p span a:hover, .flex-caption p span a:visited{
+    color: #D86805;
+    font-weight: bold;
+    text-decoration: none;
+    display: none;
+}
+
+.titlehead{
+	font-size: 1.2em;
+	font-weight: bold;
+	font-family: 'century gothic';
+	margin:10% 0;
+}
+
+.eyeon {
+	font-weight: bold;
+	font-family: 'century gothic';
+}
+
+.txt {
+
+	font-family: 'century gothic';
 }
 
 .navlinks {
 	font-family: 'century gothic';
-	color: #aaaaaa;
+	color: #aaaaaa !important;
 	text-decoration: none;
 	font-size: 1.5em;
 	padding-right: 0.6em;
+}
+
+.navlinks:hover {
+	color: #111111 !important;
 }
 
 .righty {
