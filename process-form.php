@@ -12,7 +12,7 @@
  * $email_address = The email address that all form submissions will be sent to
  * $company_address = The destination address that will be used in the contact form */
 
-$email_address = 'sbierti@gmail.com';
+$email_address = 'info@atolle.com';
 $company_address_1 = 'Impasse Antoine Vittez Cite Dillon 97200 Fort de France Martinique';
 
 $company_address_2 = 'Tavagnacco, Udine, Italy';
